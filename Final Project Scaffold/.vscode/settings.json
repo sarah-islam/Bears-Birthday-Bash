@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gba.h": "c",
+        "mainmaptilemap.h": "c"
+    }
+}
